@@ -10597,3 +10597,8 @@ footer .social{
   padding-left:25%;
   }
 }
+
+.myface {
+  width:200px;
+   border-radius: 50%     
+}
