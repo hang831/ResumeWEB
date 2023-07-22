@@ -10350,7 +10350,7 @@ body {
   margin-top:8%;
   margin-left:46%;
   background: linear-gradient(to bottom, rgb(90, 106, 255), #a2a9fc);
-  
+   position: relative;
 }
 
 .box-3{
