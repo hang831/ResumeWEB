@@ -10345,12 +10345,11 @@ body {
 
 .line{
   /* border-left: 3px solid rgb(90, 106, 255); */
-  height: 700%;
+  height: 800%;
   width:10%;
   margin-top:8%;
   margin-left:46%;
   background: linear-gradient(to bottom, rgb(90, 106, 255), #a2a9fc);
-   position: relative;
 }
 
 .box-3{
