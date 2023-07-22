@@ -10345,11 +10345,12 @@ body {
 
 .line{
   /* border-left: 3px solid rgb(90, 106, 255); */
-  height: 300%;
+  height: 600%;
   width:10%;
   margin-top:8%;
   margin-left:46%;
   background: linear-gradient(to bottom, rgb(90, 106, 255), #a2a9fc);
+  
 }
 
 .box-3{
@@ -10375,9 +10376,7 @@ and (max-device-width : 640px)
   grid-row:2/3;
 }
 
-.line{
-  height:600%;
-}
+
 }
 
 #certification{
